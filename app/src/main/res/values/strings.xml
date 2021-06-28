@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name"> RecyclerView_practice </string>
+    <string name="create_new_memo">新規作成</string>
+    <string name="register_button">登録する</string>
+    <string name="back_button">戻る</string>
+    <string name="edit_memolist">編集</string>
+    <string name="setting">設定</string>
+</resources>
